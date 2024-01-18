@@ -1,0 +1,15 @@
+* {
+  font-size: 20px;
+}
+.imgCustom {
+  font-size: 10px;
+  width: 20rem;
+  height: 20rem;
+  /* em: lay kich thuoc font size gan nhat cua no nhan len voi gia tri minh gan vao "em"
+  REM: lay kick thuoc cua global size nhan len voi gia tri minh gan vao "rem"
+  */
+  /*  aspect-ratio: 4/3; */
+  object-fit: cover;
+  /* control + space DE TRON CAC THUOC TINH */
+  object-position: center;
+}
